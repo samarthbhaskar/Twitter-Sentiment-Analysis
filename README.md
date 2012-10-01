@@ -1,0 +1,1 @@
+Twitter sentiment analysis R code written using bag-of-words analysis methods. This was used for some basic analysis before more complicated machine learning processes were deployed.
